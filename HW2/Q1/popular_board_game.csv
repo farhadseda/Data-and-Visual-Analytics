@@ -1,0 +1,245 @@
+name,category,playtime,playtime_num,avg_rating,num_ratings,min_players,solo,Film
+Agricola,Economic,>90,150,7.98857,61557,1,support solo,Gaia Project
+Puerto Rico,Economic,>90,150,8.0359,61157,3,not support solo,Twilight Imperium (Fourth Edition)
+Small World,Fighting,"(60, 90]",80,7.29949,59211,2,not support solo,Star Wars: Rebellion
+Codenames,Deduction,<=30,15,7.71148,62563,2,not support solo,Decrypto
+Power Grid,Economic,>90,120,7.89004,54420,2,not support solo,Twilight Imperium (Fourth Edition)
+King of Tokyo,Fighting,<=30,30,7.23048,54881,2,not support solo,Star Wars: Rebellion
+Love Letter,Deduction,<=30,20,7.25253,53131,2,not support solo,Decrypto
+Splendor,Economic,<=30,30,7.47331,54445,2,not support solo,Twilight Imperium (Fourth Edition)
+Citadels,Bluffing,"(30, 60]",60,7.10124,46905,2,not support solo,Rising Sun
+Dixit,Party Game,<=30,30,7.29405,47812,3,not support solo,Just One
+Race for the Galaxy,Economic,"(30, 60]",60,7.7624,44579,2,not support solo,Twilight Imperium (Fourth Edition)
+Scythe,Economic,>90,115,8.2841,52513,1,support solo,Gaia Project
+Terraforming Mars,Economic,>90,120,8.40331,57359,1,support solo,Gaia Project
+Munchkin,Fighting,>90,120,5.92127,39939,3,not support solo,Star Wars: Rebellion
+Arkham Horror,Fighting,>90,360,7.29157,36102,1,support solo,Gloomhaven
+Dead of Winter: A Crossroads Game,Bluffing,>90,120,7.67747,37602,2,not support solo,Rising Sun
+Terra Mystica,Economic,>90,150,8.19293,37276,2,not support solo,Twilight Imperium (Fourth Edition)
+Hanabi,Deduction,<=30,25,7.1373,36775,2,not support solo,Decrypto
+The Resistance,Bluffing,<=30,30,7.33418,34774,5,not support solo,Rising Sun
+Battlestar Galactica: The Board Game,Bluffing,>90,300,7.74082,32005,3,not support solo,Rising Sun
+Coup,Bluffing,<=30,15,7.03729,33927,2,not support solo,Rising Sun
+Star Realms,Fighting,<=30,20,7.60884,33898,2,not support solo,Star Wars: Rebellion
+Magic: The Gathering,Fighting,<=30,20,7.47773,31086,2,not support solo,Star Wars: Rebellion
+Robinson Crusoe: Adventures on the Cursed Island,Fighting,>90,120,7.90738,31773,1,support solo,Gloomhaven
+Blood Rage,Fighting,"(60, 90]",90,8.03108,31455,2,not support solo,Star Wars: Rebellion
+Caylus,Economic,>90,150,7.81108,26174,2,not support solo,Twilight Imperium (Fourth Edition)
+Gloomhaven,Fighting,>90,120,8.89906,37075,1,support solo,Gloomhaven
+Tzolk'in: The Mayan Calendar,Economic,"(60, 90]",90,7.92748,28786,2,not support solo,Twilight Imperium (Fourth Edition)
+Android: Netrunner,Bluffing,"(30, 60]",45,7.89668,26001,2,not support solo,Rising Sun
+Eclipse,Fighting,>90,180,7.94262,25542,2,not support solo,Star Wars: Rebellion
+A Game of Thrones: The Board Game (Second Edition),Bluffing,>90,240,7.6607,27362,3,not support solo,Rising Sun
+Cosmic Encounter,Bluffing,>90,120,7.55528,26335,3,not support solo,Rising Sun
+Sheriff of Nottingham,Bluffing,"(30, 60]",60,7.21073,28017,3,not support solo,Rising Sun
+Caverna: The Cave Farmers,Economic,>90,210,8.0693,26739,1,support solo,Gaia Project
+Eldritch Horror,Fighting,>90,240,7.85804,27732,1,support solo,Gloomhaven
+Monopoly,Economic,>90,180,4.37636,26676,2,not support solo,Twilight Imperium (Fourth Edition)
+Shadows over Camelot,Bluffing,"(60, 90]",80,7.13334,24892,3,not support solo,Rising Sun
+Mage Knight Board Game,Fighting,>90,240,8.10663,26609,1,support solo,Gloomhaven
+BANG!,Bluffing,"(30, 60]",40,6.52314,25506,4,not support solo,Rising Sun
+Mysterium,Deduction,"(30, 60]",42,7.39843,29442,2,not support solo,Decrypto
+Le Havre,Economic,>90,150,7.89077,25443,1,support solo,Gaia Project
+The Resistance: Avalon,Bluffing,<=30,30,7.62483,25833,5,not support solo,Rising Sun
+Roll for the Galaxy,Economic,"(30, 60]",45,7.72867,24800,2,not support solo,Twilight Imperium (Fourth Edition)
+Saboteur,Bluffing,<=30,30,6.60249,24198,3,not support solo,Rising Sun
+Star Wars: X-Wing Miniatures Game,Bluffing,"(30, 60]",45,7.75976,22459,2,not support solo,Rising Sun
+San Juan,Economic,"(30, 60]",60,7.27255,21812,2,not support solo,Twilight Imperium (Fourth Edition)
+Istanbul,Economic,"(30, 60]",60,7.60923,23680,2,not support solo,Twilight Imperium (Fourth Edition)
+Concordia,Economic,>90,100,8.10536,25711,2,not support solo,Twilight Imperium (Fourth Edition)
+For Sale,Economic,<=30,30,7.21659,22580,3,not support solo,Twilight Imperium (Fourth Edition)
+Cards Against Humanity,Party Game,<=30,30,6.02013,22147,4,not support solo,Just One
+Elder Sign,Fighting,"(60, 90]",90,7.00506,21321,1,support solo,Gloomhaven
+Descent: Journeys in the Dark (Second Edition),Fighting,>90,120,7.73127,21853,2,not support solo,Star Wars: Rebellion
+Suburbia,Economic,"(60, 90]",90,7.56653,20870,1,support solo,Gaia Project
+Colt Express,Fighting,"(30, 60]",40,7.16312,22886,2,not support solo,Star Wars: Rebellion
+Ghost Stories,Fighting,"(30, 60]",60,7.35201,18848,1,support solo,Gloomhaven
+Viticulture Essential Edition,Economic,"(60, 90]",90,8.14362,25735,1,support solo,Gaia Project
+Survive: Escape from Atlantis!,Bluffing,"(30, 60]",60,7.30851,19404,2,not support solo,Rising Sun
+Acquire,Economic,"(60, 90]",90,7.35261,17836,2,not support solo,Twilight Imperium (Fourth Edition)
+Through the Ages: A Story of Civilization,Economic,>90,240,7.98974,17684,2,not support solo,Twilight Imperium (Fourth Edition)
+One Night Ultimate Werewolf,Bluffing,<=30,10,7.21336,20142,3,not support solo,Rising Sun
+Star Wars: Imperial Assault,Fighting,>90,120,8.0778,19391,2,not support solo,Star Wars: Rebellion
+Star Wars: Rebellion,Fighting,>90,240,8.44551,21095,2,not support solo,Star Wars: Rebellion
+Mansions of Madness: Second Edition,Fighting,>90,180,8.15362,22562,1,support solo,Gloomhaven
+Apples to Apples,Party Game,<=30,30,5.85811,17184,4,not support solo,Just One
+Keyflower,Economic,>90,120,7.85182,18067,2,not support solo,Twilight Imperium (Fourth Edition)
+BANG! The Dice Game,Bluffing,<=30,15,6.99031,18715,3,not support solo,Rising Sun
+Through the Ages: A New Story of Civilization,Economic,>90,120,8.53104,21053,2,not support solo,Twilight Imperium (Fourth Edition)
+Isle of Skye: From Chieftain to King,Economic,"(30, 60]",50,7.45634,19015,2,not support solo,Twilight Imperium (Fourth Edition)
+Cyclades,Fighting,"(60, 90]",90,7.5237,17126,2,not support solo,Star Wars: Rebellion
+The Voyages of Marco Polo,Economic,>90,100,7.94038,18669,2,not support solo,Twilight Imperium (Fourth Edition)
+Spyfall,Bluffing,<=30,15,6.9856,17441,3,not support solo,Rising Sun
+Troyes,Economic,"(60, 90]",90,7.76293,17608,2,not support solo,Twilight Imperium (Fourth Edition)
+Clue,Bluffing,"(30, 60]",45,5.65866,16735,3,not support solo,Rising Sun
+The Pillars of the Earth,Economic,>90,120,7.30571,15943,2,not support solo,Twilight Imperium (Fourth Edition)
+Brass: Lancashire,Economic,>90,120,8.12303,18149,2,not support solo,Twilight Imperium (Fourth Edition)
+Diamant,Bluffing,<=30,30,6.83112,16269,3,not support solo,Rising Sun
+Alchemists,Deduction,>90,120,7.69764,17270,2,not support solo,Decrypto
+Zombie Dice,Party Game,<=30,20,6.21825,15634,2,not support solo,Just One
+Mice and Mystics,Fighting,"(60, 90]",90,7.37141,16009,1,support solo,Gloomhaven
+Modern Art,Economic,"(30, 60]",45,7.37034,15950,3,not support solo,Twilight Imperium (Fourth Edition)
+Battle Line,Deduction,<=30,30,7.41564,15193,2,not support solo,Decrypto
+Zombies!!!,Fighting,"(60, 90]",90,5.8306,14176,2,not support solo,Star Wars: Rebellion
+Mr. Jack,Deduction,<=30,30,7.04544,14639,2,not support solo,Decrypto
+Sushi Go Party!,Party Game,<=30,20,7.51717,19687,2,not support solo,Just One
+Saint Petersburg,Economic,"(30, 60]",60,7.31269,14032,2,not support solo,Twilight Imperium (Fourth Edition)
+Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases,Deduction,>90,120,7.80033,16023,1,support solo,Chronicles of Crime
+Dixit: Odyssey,Party Game,<=30,30,7.48416,15671,3,not support solo,Just One
+Sentinels of the Multiverse,Fighting,"(30, 60]",60,7.27321,14307,2,not support solo,Star Wars: Rebellion
+Chaos in the Old World,Fighting,>90,120,7.67316,13966,3,not support solo,Star Wars: Rebellion
+Friday,Fighting,<=30,25,7.19434,15356,1,support solo,Gloomhaven
+Kemet,Fighting,>90,120,7.75018,15473,2,not support solo,Star Wars: Rebellion
+Last Night on Earth: The Zombie Game,Fighting,"(60, 90]",90,6.96853,13389,2,not support solo,Star Wars: Rebellion
+Castle Panic,Fighting,"(30, 60]",60,6.67413,13818,1,support solo,Gloomhaven
+Codenames: Pictures,Deduction,<=30,15,7.34107,15752,2,not support solo,Decrypto
+Quarriors!,Fighting,<=30,30,6.78099,12941,2,not support solo,Star Wars: Rebellion
+Century: Spice Road,Economic,"(30, 60]",45,7.39227,16948,2,not support solo,Twilight Imperium (Fourth Edition)
+Scotland Yard,Deduction,"(30, 60]",45,6.50481,13713,3,not support solo,Decrypto
+Glory to Rome,Economic,"(30, 60]",60,7.49292,12710,2,not support solo,Twilight Imperium (Fourth Edition)
+Stratego,Bluffing,"(30, 60]",45,6.07098,13254,2,not support solo,Rising Sun
+Dungeon Lords,Economic,"(60, 90]",90,7.41716,12623,2,not support solo,Twilight Imperium (Fourth Edition)
+Concept,Deduction,"(30, 60]",40,6.88564,14303,4,not support solo,Decrypto
+Mansions of Madness,Fighting,>90,180,7.33163,12513,2,not support solo,Star Wars: Rebellion
+Neuroshima Hex! 3.0,Fighting,<=30,30,7.41835,12870,1,support solo,Gloomhaven
+King of New York,Fighting,"(30, 60]",40,7.02216,13485,2,not support solo,Star Wars: Rebellion
+Shogun,Economic,>90,120,7.55495,12550,3,not support solo,Twilight Imperium (Fourth Edition)
+Wits & Wagers,Bluffing,<=30,25,6.94676,12917,3,not support solo,Rising Sun
+Captain Sonar,Deduction,"(30, 60]",60,7.63964,14985,2,not support solo,Decrypto
+Letters from Whitechapel,Bluffing,"(30, 60]",60,7.43459,13173,2,not support solo,Rising Sun
+Legends of Andor,Fighting,"(60, 90]",90,7.24574,13913,2,not support solo,Star Wars: Rebellion
+Talisman (Revised 4th Edition),Fighting,"(60, 90]",90,6.53718,12642,2,not support solo,Star Wars: Rebellion
+Merchants & Marauders,Fighting,>90,180,7.43596,12345,2,not support solo,Star Wars: Rebellion
+Notre Dame,Economic,"(60, 90]",75,7.36577,11972,2,not support solo,Twilight Imperium (Fourth Edition)
+Secret Hitler,Bluffing,"(30, 60]",45,7.58786,16293,5,not support solo,Rising Sun
+Space Hulk: Death Angel â€“ The Card Game,Fighting,"(30, 60]",60,6.99383,11877,1,support solo,Gloomhaven
+Pathfinder Adventure Card Game: Rise of the Runelords â€“ Base Set,Fighting,"(60, 90]",90,7.27195,11763,1,support solo,Gloomhaven
+Diplomacy,Bluffing,>90,360,7.05243,11810,2,not support solo,Rising Sun
+Liar's Dice,Bluffing,<=30,30,6.91821,12127,2,not support solo,Rising Sun
+Mechs vs. Minions,Fighting,"(60, 90]",90,8.12782,13204,2,not support solo,Star Wars: Rebellion
+Deception: Murder in Hong Kong,Bluffing,<=30,20,7.53145,14670,4,not support solo,Rising Sun
+A Feast for Odin,Economic,>90,120,8.18077,15434,1,support solo,Gaia Project
+Descent: Journeys in the Dark,Fighting,>90,240,7.3143,11190,2,not support solo,Star Wars: Rebellion
+Evolution,Fighting,"(30, 60]",60,7.19797,12787,2,not support solo,Star Wars: Rebellion
+Spirit Island,Fighting,>90,120,8.37052,20755,1,support solo,Gloomhaven
+Rising Sun,Bluffing,>90,120,8.00452,14439,3,not support solo,Rising Sun
+Goa,Economic,"(60, 90]",90,7.60498,10832,2,not support solo,Twilight Imperium (Fourth Edition)
+Ca$h 'n Guns (Second Edition),Bluffing,<=30,30,6.9594,12009,4,not support solo,Rising Sun
+Above and Below,Economic,"(60, 90]",90,7.50327,11997,2,not support solo,Twilight Imperium (Fourth Edition)
+Nations,Economic,>90,200,7.67151,10862,1,support solo,Gaia Project
+Telestrations,Party Game,<=30,30,7.41051,11893,4,not support solo,Just One
+A Game of Thrones (First Edition),Bluffing,>90,180,7.24611,10068,3,not support solo,Rising Sun
+Jungle Speed,Party Game,<=30,10,6.53659,10833,2,not support solo,Just One
+War of the Ring (Second Edition),Fighting,>90,180,8.42735,12442,2,not support solo,Star Wars: Rebellion
+Summoner Wars: Master Set,Fighting,"(30, 60]",60,7.55392,10193,2,not support solo,Star Wars: Rebellion
+In the Year of the Dragon,Economic,>90,100,7.38305,10468,2,not support solo,Twilight Imperium (Fourth Edition)
+HeroQuest,Fighting,"(60, 90]",90,7.10206,10553,2,not support solo,Star Wars: Rebellion
+Skull,Bluffing,"(30, 60]",45,7.17317,12818,3,not support solo,Rising Sun
+Axis & Allies,Economic,>90,180,6.55886,10113,2,not support solo,Twilight Imperium (Fourth Edition)
+Thunderstone,Fighting,"(30, 60]",60,6.96987,9951,1,support solo,Gloomhaven
+Food Chain Magnate,Economic,>90,240,8.18414,12724,2,not support solo,Twilight Imperium (Fourth Edition)
+Zombicide: Black Plague,Fighting,>90,180,7.73977,11801,1,support solo,Gloomhaven
+Tobago,Deduction,"(30, 60]",60,7.12657,10224,2,not support solo,Decrypto
+Blood Bowl: Team Manager â€“ The Card Game,Fighting,"(60, 90]",90,7.3746,10081,2,not support solo,Star Wars: Rebellion
+Jenga,Party Game,<=30,20,5.58245,10913,1,support solo,Jenga
+Ca$h 'n Gun$,Bluffing,<=30,30,6.60914,9649,4,not support solo,Rising Sun
+Welcome to the Dungeon,Bluffing,<=30,30,6.65729,11065,2,not support solo,Rising Sun
+Legendary Encounters: An Alien Deck Building Game,Fighting,"(30, 60]",60,7.79776,10639,1,support solo,Gloomhaven
+Gaia Project,Economic,>90,150,8.53656,14283,1,support solo,Gaia Project
+Taboo,Party Game,<=30,20,6.28354,9974,4,not support solo,Just One
+Steam,Economic,"(60, 90]",90,7.6248,9373,3,not support solo,Twilight Imperium (Fourth Edition)
+Ora et Labora,Economic,>90,180,7.71547,9487,1,support solo,Gaia Project
+Bruges,Economic,"(30, 60]",60,7.45063,9855,2,not support solo,Twilight Imperium (Fourth Edition)
+Clans of Caledonia,Economic,>90,120,8.05595,13184,1,support solo,Gaia Project
+Champions of Midgard,Fighting,"(60, 90]",90,7.79091,12069,2,not support solo,Star Wars: Rebellion
+Fury of Dracula (Second Edition),Deduction,>90,180,7.15042,8872,2,not support solo,Decrypto
+Small World Underground,Fighting,"(60, 90]",90,7.29991,9446,2,not support solo,Star Wars: Rebellion
+Mombasa,Economic,>90,150,7.92164,10357,2,not support solo,Twilight Imperium (Fourth Edition)
+The Werewolves of Miller's Hollow,Bluffing,<=30,30,6.78826,9472,8,not support solo,Rising Sun
+The Mind,Deduction,<=30,15,7.03924,16329,2,not support solo,Decrypto
+At the Gates of Loyang,Economic,>90,120,7.38538,9302,1,support solo,Gaia Project
+Grand Austria Hotel,Economic,>90,120,7.77435,11021,2,not support solo,Twilight Imperium (Fourth Edition)
+The Manhattan Project,Economic,>90,120,7.41617,8902,2,not support solo,Twilight Imperium (Fourth Edition)
+Viticulture,Economic,"(60, 90]",90,7.64826,9633,2,not support solo,Twilight Imperium (Fourth Edition)
+Fury of Dracula (third/fourth edition),Deduction,>90,180,7.5733,10561,2,not support solo,Decrypto
+Nexus Ops,Fighting,"(60, 90]",90,7.22964,8359,2,not support solo,Star Wars: Rebellion
+Last Will,Economic,"(60, 90]",75,7.21237,8762,2,not support solo,Twilight Imperium (Fourth Edition)
+Amun-Re,Economic,"(60, 90]",90,7.33098,8435,3,not support solo,Twilight Imperium (Fourth Edition)
+Poker,Bluffing,"(30, 60]",60,6.69174,8879,2,not support solo,Rising Sun
+Glen More,Economic,"(60, 90]",70,7.33712,8506,2,not support solo,Twilight Imperium (Fourth Edition)
+Mascarade,Bluffing,<=30,30,6.65192,8852,2,not support solo,Rising Sun
+Hero Realms,Fighting,<=30,30,7.68437,10986,2,not support solo,Star Wars: Rebellion
+Charterstone,Economic,"(60, 90]",75,7.65893,10717,1,support solo,Gaia Project
+Codenames: Duet,Deduction,<=30,30,7.71535,11899,2,not support solo,Decrypto
+Imperial,Economic,>90,180,7.61704,8147,2,not support solo,Twilight Imperium (Fourth Edition)
+Glass Road,Economic,"(60, 90]",80,7.45911,8681,1,support solo,Gaia Project
+Dungeons & Dragons: Castle Ravenloft Board Game,Fighting,"(30, 60]",60,6.97768,8239,1,support solo,Gloomhaven
+Arcadia Quest,Fighting,"(30, 60]",60,7.81647,8790,2,not support solo,Star Wars: Rebellion
+Cranium,Party Game,"(30, 60]",60,5.68705,8318,4,not support solo,Just One
+Jambo,Economic,"(30, 60]",45,7.02922,7877,2,not support solo,Twilight Imperium (Fourth Edition)
+Pirate's Cove,Fighting,"(60, 90]",90,6.58053,7861,3,not support solo,Star Wars: Rebellion
+Vikings,Economic,"(30, 60]",60,7.26584,7827,2,not support solo,Twilight Imperium (Fourth Edition)
+Cuba,Economic,>90,120,7.15796,7769,2,not support solo,Twilight Imperium (Fourth Edition)
+Pit,Economic,"(60, 90]",90,6.39326,8042,3,not support solo,Twilight Imperium (Fourth Edition)
+Runebound (Second Edition),Fighting,>90,240,6.88913,7648,2,not support solo,Star Wars: Rebellion
+Yspahan,Economic,"(30, 60]",60,7.10018,7632,2,not support solo,Twilight Imperium (Fourth Edition)
+Heroscape Master Set: Rise of the Valkyrie,Fighting,"(60, 90]",90,7.42948,7681,2,not support solo,Star Wars: Rebellion
+Condottiere,Bluffing,"(30, 60]",45,6.78654,8308,2,not support solo,Rising Sun
+Age of Steam,Economic,>90,120,7.69597,8430,1,support solo,Gaia Project
+Shadow Hunters,Bluffing,"(30, 60]",45,6.8327,7837,4,not support solo,Rising Sun
+Once Upon a Time: The Storytelling Card Game,Party Game,<=30,30,6.44138,7878,2,not support solo,Just One
+Mystery of the Abbey,Deduction,"(60, 90]",90,6.54882,7560,3,not support solo,Decrypto
+Runewars,Fighting,>90,240,7.66713,7614,2,not support solo,Star Wars: Rebellion
+Navegador,Economic,"(60, 90]",90,7.56269,7812,2,not support solo,Twilight Imperium (Fourth Edition)
+Scattergories,Party Game,<=30,30,6.15963,8092,2,not support solo,Just One
+Arboretum,Bluffing,<=30,30,7.41813,11523,2,not support solo,Rising Sun
+Monopoly Deal Card Game,Economic,<=30,15,6.26259,8169,2,not support solo,Twilight Imperium (Fourth Edition)
+Anachrony,Economic,>90,120,8.13322,10136,1,support solo,Gaia Project
+Chinatown,Economic,"(30, 60]",60,7.2674,8000,3,not support solo,Twilight Imperium (Fourth Edition)
+Trivial Pursuit: Genus Edition,Party Game,"(60, 90]",90,5.20655,7272,2,not support solo,Just One
+Mage Wars Arena,Fighting,"(60, 90]",90,7.68354,7226,2,not support solo,Star Wars: Rebellion
+Dungeon Roll,Fighting,<=30,15,6.14269,7273,1,support solo,Gloomhaven
+Chicago Express,Economic,"(30, 60]",60,7.2293,7243,2,not support solo,Twilight Imperium (Fourth Edition)
+La Granja,Economic,>90,120,7.71128,8110,1,support solo,Gaia Project
+The Gallerist,Economic,>90,150,8.01737,8927,1,support solo,Gaia Project
+Civilization,Economic,>90,360,7.51239,7007,2,not support solo,Twilight Imperium (Fourth Edition)
+StarCraft: The Board Game,Fighting,>90,240,7.337,6937,2,not support solo,Star Wars: Rebellion
+Taj Mahal,Bluffing,>90,100,7.3042,6958,3,not support solo,Rising Sun
+Deep Sea Adventure,Party Game,<=30,30,7.08438,9578,2,not support solo,Just One
+Mr. Jack Pocket,Bluffing,<=30,15,6.94803,7242,2,not support solo,Rising Sun
+Twilight Imperium (Fourth Edition),Economic,>90,480,8.72044,11474,3,not support solo,Twilight Imperium (Fourth Edition)
+Oh My Goods!,Economic,<=30,30,7.01281,8518,2,not support solo,Twilight Imperium (Fourth Edition)
+Archipelago,Economic,>90,240,7.37949,7113,2,not support solo,Twilight Imperium (Fourth Edition)
+Space Hulk (third edition),Fighting,"(30, 60]",60,7.53902,6613,2,not support solo,Star Wars: Rebellion
+Cacao,Economic,"(30, 60]",45,7.12189,7585,2,not support solo,Twilight Imperium (Fourth Edition)
+Carson City,Economic,"(60, 90]",90,7.27078,6632,2,not support solo,Twilight Imperium (Fourth Edition)
+Airlines Europe,Economic,"(60, 90]",75,7.3284,6681,2,not support solo,Twilight Imperium (Fourth Edition)
+Claustrophobia,Fighting,"(30, 60]",45,7.54728,6538,2,not support solo,Star Wars: Rebellion
+Finca,Economic,"(30, 60]",45,7.06826,6650,2,not support solo,Twilight Imperium (Fourth Edition)
+Rococo,Economic,>90,120,7.57887,7181,2,not support solo,Twilight Imperium (Fourth Edition)
+Lord of the Rings: The Confrontation,Bluffing,<=30,30,7.20778,6433,2,not support solo,Rising Sun
+Flick 'em Up!,Fighting,"(30, 60]",45,7.02921,7258,2,not support solo,Star Wars: Rebellion
+Spartacus: A Game of Blood & Treachery,Fighting,>90,180,7.46593,6879,3,not support solo,Star Wars: Rebellion
+The Red Dragon Inn,Party Game,"(30, 60]",45,6.57217,6834,2,not support solo,Just One
+Tiny Epic Kingdoms,Bluffing,"(30, 60]",45,6.63359,6765,2,not support solo,Rising Sun
+Pictionary,Party Game,"(60, 90]",90,5.81643,6615,3,not support solo,Just One
+Cockroach Poker,Bluffing,<=30,20,6.62477,7845,2,not support solo,Rising Sun
+Forbidden Stars,Bluffing,>90,180,7.98764,7110,2,not support solo,Rising Sun
+Dinosaur Island,Economic,>90,120,7.88547,9998,1,support solo,Gaia Project
+Yokohama,Economic,"(60, 90]",90,7.91106,7951,2,not support solo,Twilight Imperium (Fourth Edition)
+Wingspan,Economic,"(60, 90]",70,8.09865,32761,1,support solo,Gaia Project
+Exit: The Game â€“ The Abandoned Cabin,Deduction,>90,120,7.6676,7851,1,support solo,Chronicles of Crime
+Fields of Arle,Economic,>90,120,8.13588,7415,1,support solo,Gaia Project
+Schotten Totten,Deduction,<=30,20,7.30702,6975,2,not support solo,Decrypto
+Dead of Winter: The Long Night,Bluffing,>90,120,7.76104,7271,2,not support solo,Rising Sun
+Raptor,Fighting,<=30,25,7.40593,7236,2,not support solo,Star Wars: Rebellion
+Not Alone,Bluffing,"(30, 60]",45,7.07762,7249,2,not support solo,Rising Sun
+KeyForge: Call of the Archons,Fighting,"(30, 60]",45,7.65602,8526,2,not support solo,Star Wars: Rebellion
+Xia: Legends of a Drift System,Fighting,>90,180,7.84598,6853,3,not support solo,Star Wars: Rebellion
+Brass: Birmingham,Economic,>90,120,8.60949,14551,2,not support solo,Twilight Imperium (Fourth Edition)
+Rajas of the Ganges,Economic,"(60, 90]",75,7.69465,7731,2,not support solo,Twilight Imperium (Fourth Edition)
+Decrypto,Deduction,"(30, 60]",45,7.80797,9659,3,not support solo,Decrypto
+Agricola (Revised Edition),Economic,>90,120,8.12485,7982,1,support solo,Gaia Project
+Chronicles of Crime,Deduction,"(60, 90]",90,8.03759,11684,1,support solo,Chronicles of Crime
+Just One,Party Game,<=30,20,7.57741,8979,3,not support solo,Just One
+The Lord of the Rings: Journeys in Middle-earth,Fighting,>90,120,8.401,6688,1,support solo,Gloomhaven
